@@ -1,4 +1,9 @@
 .color{   
-    background:  blue ;
-    margin: 1px;
+    background:cyan ;
+    border: 1px solid white;
+}
+
+.color-xs{
+    background-color: blueviolet;
+    border: 1px solid black;
 }

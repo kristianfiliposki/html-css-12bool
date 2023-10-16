@@ -20,6 +20,7 @@
     flex-grow: 1;
     flex-basis: 0;
     max-width: 100%;
+    margin: 3px;
 }
 
 .col-1{
@@ -28,6 +29,7 @@
 }
 .col-2{
     flex-basis: calc((100% / 12) * 2);
+    
 }
 .col-3{
     flex-basis: calc((100% / 12) * 3);
